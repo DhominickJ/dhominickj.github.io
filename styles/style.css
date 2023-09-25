@@ -1,0 +1,4 @@
+/* Creating the Dependencies for the Tailwind CSS Layout Page */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
